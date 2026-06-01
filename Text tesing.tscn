@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=3 uid="uid://cpuiyqtgdqoh4"]
+
+[ext_resource type="Script" path="res://Text tesing.gd" id="1_jq0fh"]
+
+[node name="Label" type="Label"]
+offset_right = 290.0
+offset_bottom = 231.0
+text = "This is a tes"
+script = ExtResource("1_jq0fh")
